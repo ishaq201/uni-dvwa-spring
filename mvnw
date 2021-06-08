@@ -232,4 +232,4 @@ exec "$JAVACMD" \
   "-Dmaven.home=${M2_HOME}" "-Dmaven.multiModuleProjectDirectory=${MAVEN_PROJECTBASEDIR}" \
   ${WRAPPER_LAUNCHER} "$@"
   
-# testing codeql
+# testing codeql scan
